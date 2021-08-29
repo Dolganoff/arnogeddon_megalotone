@@ -1,4 +1,4 @@
-update=05/12/2015 16:02:17
+update=ven. 15 avril 2016 22:38:21 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,16 +27,17 @@ NetIExt=net
 version=1
 LibDir=../Kicad;../Kicad
 [eeschema/libraries]
-LibName1=power
-LibName2=device
-LibName3=transistors
-LibName4=conn
-LibName5=linear
-LibName6=/home/user/Dropbox/electronics/Github/Kicad/USER
-LibName7=74xx
-LibName8=analog_switches
-LibName9=texas
-LibName10=audio
-LibName11=USER
+LibName1=arnogeddon_megalotone-rescue
+LibName2=power
+LibName3=device
+LibName4=transistors
+LibName5=conn
+LibName6=linear
+LibName7=/home/user/Dropbox/electronics/Github/Kicad/USER
+LibName8=74xx
+LibName9=analog_switches
+LibName10=texas
+LibName11=audio
+LibName12=USER
 [general]
 version=1
